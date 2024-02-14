@@ -67,7 +67,7 @@ main {
   transform: translateY(-50%);
   font: 400 0.85rem helvetica, sans-serif;
   color: white;
-  text-shadow: 0 3px 8px rgba(0, 0, 0, 0.6);
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
   opacity: 0;
   display: none;
 
@@ -80,10 +80,14 @@ main {
 
   & .description {
     font-family: "Inter", sans-serif;
+    background:rgba(0, 0, 0, 0.5);
     font-optical-sizing: auto;
+    text-shadow: none;
     line-height: 1.7;
     margin: 1rem 0 1.5rem;
     font-size: 1rem;
+    padding: 20px;
+    border-radius: 10px;
   }
 }
 
