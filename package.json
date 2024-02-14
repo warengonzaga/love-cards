@@ -1,0 +1,25 @@
+{
+  "name": "love-cards",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "yarn dev",
+    "dev": "parcel",
+    "build": "parcel build",
+    "clean": "rm -rf dist"
+  },
+  "staticFiles": {
+    "staticPath": "src/assets/img",
+    "staticOutPath": "images",
+    "watcherGlob": "**"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "parcel-reporter-static-files-copy": "^1.5.3"
+  },
+  "dependencies": {}
+}
