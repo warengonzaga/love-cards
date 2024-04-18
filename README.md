@@ -27,7 +27,7 @@ Meet the requirements? Click the Gitpod button below to get started!
 ## 🔨 Build Steps
 
 > [!NOTE]  
-> This project has limitations as of now. We can only have exact 6 love cards. That maens you have to fill out each with information such as title, message, and images. I will update this project to have a dynamic love cards experience in the future.
+> This project has limitations as of now. We can only have exact 6 love cards. That means you have to fill out each with information such as title, message, and images. I will update this project to have a dynamic love cards experience in the future.
 
 1. Clone this repository.
 2. Run `yarn` to install the dependencies.
