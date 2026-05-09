@@ -19,7 +19,7 @@ Let's get started with the instant setup and build. Proceed to the requirements 
 - A [GitHub Account](https://github.com/signup).
 - A [Gitpod Account](https://gitpod.io). (sign up with GitHub)
 - High resolution image in JPG/JPEG format. (we don't need PNG/GIF)
-- This project requires Node.js version 24.0.0 or higher (latest LTS).
+- This project requires Node.js version 22.0.0 or higher (latest LTS).
 
 Meet the requirements? Click the Gitpod button below to get started!
 
